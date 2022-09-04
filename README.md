@@ -1,1 +1,1 @@
-# Policy-Gradient-to-solve-CartPole-probkem
+# Policy-Gradient-to-solve-CartPole-problem
